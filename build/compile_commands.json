@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/el/Documents/Programming/Math/build",
-  "command": "/usr/bin/g++ -I/home/el/Documents/Programming/Math/eigen/Eigen -g -o CMakeFiles/Math.dir/src/main.cpp.o -c /home/el/Documents/Programming/Math/src/main.cpp",
-  "file": "/home/el/Documents/Programming/Math/src/main.cpp",
-  "output": "/home/el/Documents/Programming/Math/build/CMakeFiles/Math.dir/src/main.cpp.o"
-}
-]

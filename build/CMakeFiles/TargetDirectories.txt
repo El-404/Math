@@ -1,0 +1,3 @@
+/home/el/Documents/Programming/Math/build/CMakeFiles/Math.dir
+/home/el/Documents/Programming/Math/build/CMakeFiles/edit_cache.dir
+/home/el/Documents/Programming/Math/build/CMakeFiles/rebuild_cache.dir

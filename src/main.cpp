@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cmath>
 #include <functional>
-#include <Core>
+#include <QR>
 
 double nthDerive(std::function<double(double)> function, double x, int n) {
   double h = .01;
